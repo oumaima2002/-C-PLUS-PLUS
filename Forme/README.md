@@ -4,4 +4,5 @@ Appliquer le principe d'herithage d'une classe abstraite par les methodes virtua
 </i>
 
 <h3>Schéme Explicatif</h3>
-![Alt text](Schema.jpg)https://github.com/oumaima2002/-C-PLUS-PLUS/blob/main/Forme/Schema.jpg
+![image](https://github.com/oumaima2002/-C-PLUS-PLUS/assets/103319672/e0dc36c1-665f-44bc-8447-3137272e77ff)
+
