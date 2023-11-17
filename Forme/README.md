@@ -1,6 +1,6 @@
 <h2>📌Classe Précise pour les formes à utilisés si on veut creer application pour dessin des formes mathématiques par exemple</h2>
 <i>
-Appliquer le principe d'herithage d'une classe mère abstraite ainsi  les methodes virtual et override .
+On applique le principe d'herithage d'une classe mère abstraite ainsi  les methodes virtual et override .
 </i>
 
 <h3>Schéme Explicatif</h3>
