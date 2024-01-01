@@ -24,8 +24,6 @@ public:
     void AfficherListe();
   
 };
-
-
 noeud* Liste_Chaine::Creer_noeud(Chose* val)
 {
     // Allocation de la mémoire
@@ -47,10 +45,10 @@ void Liste_Chaine::AfficherListe()
     noeud* courant = cellule;
 
     while (courant != nullptr)
-    {
+    { 
         courant->valeur->Affichage();
         courant = courant->suivant;
-    }
+    } 
 }
 
 #endif
