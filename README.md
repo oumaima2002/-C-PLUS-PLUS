@@ -22,6 +22,8 @@ Implementation of stack-related programming.
 
 ### 6. Programation Arbre
 Explore tree-based programming and algorithms.
+### 7. Dictionnaire
+Read ,Search , Find and Count a word in a file 
 
 ## License
 
